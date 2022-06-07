@@ -1,0 +1,26 @@
+name: GoBreakOut
+version: ${project.version}
+main: me.mrpro.test.testpl.TestPL
+api-version: 1.16
+prefix: [ GoBreakOut ]
+
+commands:
+  gmc:
+  gms:
+  gmsp:
+  gma:
+  clear:
+  bc:
+    aliases: broadcast
+  gm:
+  suicide:
+    aliases: death
+  fly:
+  speed:
+  givekey:
+    aliases: gk
+  modmenu:
+    aliases: mm
+  solitarystick:
+    aliases: ss
+  newnpc:
